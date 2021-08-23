@@ -1,5 +1,5 @@
 # Landing Page Project
-url  https://eslam-hosny.github.io/landing-page-fwd-review1/
+url  https://eslam-hosny.github.io/landing-page-fwd-review2/
 
 ## Table of Contents
 1. Add an active state to your navigation items when a section is in the viewport.
